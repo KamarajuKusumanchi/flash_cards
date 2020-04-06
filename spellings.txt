@@ -7,3 +7,6 @@ what,
 fly, "Who wants to fly with me?"
 hunt, "Who wants to hunt with me?"
 read, "Who wants to read with me?"
+tell, "Mom tells Mongo to play nice with Cutie."
+with, "Mom tells Mongo to play nice with Cutie."
+nice, "Mom tells Mongo to play nice with Cutie."
