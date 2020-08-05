@@ -10,3 +10,4 @@ read, "Who wants to read with me?"
 tell, "Mom tells Mongo to play nice with Cutie."
 with, "Mom tells Mongo to play nice with Cutie."
 nice, "Mom tells Mongo to play nice with Cutie."
+good, Fluffy is a good cat.
