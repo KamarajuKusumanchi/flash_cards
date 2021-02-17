@@ -1,3 +1,6 @@
+# words in no particular order.
+# level = 1
+# level 1 = beginners, kids
 lion
 leaf
 lamb
