@@ -3,3 +3,7 @@ leaf
 lamb
 ladybug
 leopard
+vase
+vulture
+vegetables
+van
